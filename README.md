@@ -16,5 +16,4 @@ Sistema executado via terminal para gerenciamento de clientes, pets e serviços 
 1. Certifique-se de ter o **Python 3** instalado.
 2. Clone este repositório:
    ```bash
-   git clone <COLE_AQUI_O_LINK_DO_SEU_REPOSITORIO>
-   
+   git clone https://github.com/Muriloaasfs/ProjetoFinalPoo.git
